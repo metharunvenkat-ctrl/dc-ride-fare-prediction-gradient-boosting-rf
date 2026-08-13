@@ -1,5 +1,6 @@
-# Dataset CSV files (exclude large raw and processed datasets)
+# Dataset & Presentation files (exclude large raw datasets and slides)
 *.csv
+*.pptx
 taxi_2024_12.csv
 
 # Jupyter Notebook checkpoints

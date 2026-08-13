@@ -73,7 +73,6 @@ Models were trained on an 80/20 train-test split and evaluated across standard r
 ```
 .
 ├── ride_fare_prediction.ipynb   # Primary Jupyter Notebook (Data Processing, EDA & ML Pipeline)
-├── ride_fare_pred_ppt.pptx      # Executive Presentation & Analytical Slide Deck
 ├── .gitattributes                # Linguist language override configuration (Python 100%)
 ├── .gitignore                    # Workspace & dataset exclusion rules
 └── README.md                     # Production Documentation & Project Report
