@@ -16,13 +16,13 @@ Two advanced ensemble regression algorithms were trained and evaluated on test t
 
 | Metric | 🌲 Random Forest Regressor | 🚀 Gradient Boosting Regressor |
 | :--- | :---: | :---: |
-| **Mean Absolute Error (MAE)** | **$0.79** | $0.98 |
-| **Root Mean Squared Error (RMSE)** | **$1.37** | $1.42 |
-| **$R^2$ Score (Variance Explained)** | **0.96** | **0.96** |
+| **Mean Absolute Error (MAE)** | **0.79** | 0.98 |
+| **Root Mean Squared Error (RMSE)** | **1.37** | 1.42 |
+| **R² Score (Variance Explained)** | **0.96** | **0.96** |
 | **Custom Accuracy (Within ±10% Fare)** | 89.28% | **90.18%** |
 
 - **Gradient Boosting Regressor** achieved the highest overall accuracy within a 10% fare tolerance (**90.18%**).
-- **Random Forest Regressor** yielded lower error metrics (MAE: **$0.79**, RMSE: **$1.37**).
+- **Random Forest Regressor** yielded lower error metrics (MAE: **0.79**, RMSE: **1.37**).
 
 ---
 
