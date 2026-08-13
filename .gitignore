@@ -1,0 +1,29 @@
+# Dataset CSV files (exclude large raw and processed datasets)
+*.csv
+taxi_2024_12.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache & environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
